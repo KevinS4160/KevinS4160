@@ -1,9 +1,3 @@
-# 🔥 Kevin's GitHub Profile
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600px">
-</p>
-
 ## 🚀 About Me
 - 🎓 4th-year Computer Engineering Student at **Technological Institute of the Philippines**  
 - 💻 Learning **Machine Learning, AI, Robotics, FrontEnd and BackEnd Development, Data Analytic**  
