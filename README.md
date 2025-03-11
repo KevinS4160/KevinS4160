@@ -1,18 +1,35 @@
-# 👋 Hello, I'm Kevin!  
-### 🖥️ Computer Engineering | 🔬 AI & Robotics | ⚡ FastAPI & Web Dev  
+# 🔥 Kevin's GitHub Profile
 
-🚀 I love working on **AI, Robotics, and Backend Development.**  
-🔧 I specialize in **Python, React Native, SQL, and Data Analytics.**  
-🎮 I'm also a fan of **HoYoverse games** and love building gaming PCs!  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px">
+</p>
 
-## 🌱 Currently Learning  
-- 📊 **ML & Data Analytics**  
-- ⚡ **FastAPI & Backend Development**  
-- 🤖 **Cobot Automation**  
+## 🚀 About Me
+- 🎓 4th-year Computer Engineering Student at **Technological Institute of the Philippines**  
+- 💻 Specializing in **AI, Robotics, & Backend Development**  
+- 🏆 Working on **Cobot Automation & Path Optimization**  
+
+## 💡 Fun Facts
+- 🎮 **Gamer** (HoYoverse & RPGs)
+- 🛠️ **PC Hardware Enthusiast**
+- 🚀 **Entrepreneur in AI & Robotics**
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=github-dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinS4160&layout=compact&theme=github-dark)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinS4160&show_icons=true&theme=radical" />
+</p>
 
-## 🐍 Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/KevinS4160/Mobius-/output/github-contribution-grid-snake-dark.svg)  
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=onedark" />
+</p>
+
+## 🐍 Contribution Graph  
+![Snake animation](https://raw.githubusercontent.com/KevinS4160/Mobius-/output/github-contribution-grid-snake-dark.svg)
+
+## 🔗 Connect with Me  
+📧 Email: [Your Email]  
+🌎 Portfolio: [Your Website]  
+💬 Discord: [Your Discord]  
