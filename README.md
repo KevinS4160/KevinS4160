@@ -1,3 +1,1 @@
-## 📊 GitHub Contributions Graph
-
-![KevinS4160's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=dark&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/KevinS4160/Mobius-/output/github-contribution-grid-snake.svg)
