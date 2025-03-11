@@ -6,7 +6,7 @@
 ## 💡 Fun Facts
 - 🎮 **Gamer** (HoYoverse & RPGs)
 - 🛠️ **PC Hardware Enthusiast**
-- 🚀 **Entrepreneur in AI & Robotics**
+- 🚀 **learning AI & Robotics**
 
 ## 📊 GitHub Stats  
 <p align="center">
