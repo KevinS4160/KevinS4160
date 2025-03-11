@@ -1,13 +1,13 @@
 # 🔥 Kevin's GitHub Profile
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600px">
 </p>
 
 ## 🚀 About Me
 - 🎓 4th-year Computer Engineering Student at **Technological Institute of the Philippines**  
-- 💻 Specializing in **AI, Robotics, & Backend Development**  
-- 🏆 Working on **Cobot Automation & Path Optimization**  
+- 💻 Learning **Machine Learning, AI, Robotics, FrontEnd and BackEnd Development, Data Analytic**  
+- 🏆 Working on **Cobot Automation & Path Optimization**
 
 ## 💡 Fun Facts
 - 🎮 **Gamer** (HoYoverse & RPGs)
@@ -30,6 +30,4 @@
 ![Snake animation](https://raw.githubusercontent.com/KevinS4160/Mobius-/output/github-contribution-grid-snake-dark.svg)
 
 ## 🔗 Connect with Me  
-📧 Email: [Your Email]  
-🌎 Portfolio: [Your Website]  
-💬 Discord: [Your Discord]  
+💬 Discord: [yama_4167]  
