@@ -21,7 +21,7 @@
 </p>
 
 ## 🐍 Contribution Graph  
-![Snake animation](https://raw.githubusercontent.com/KevinS4160/Mobius-/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/KevinS4160/Mobius-/output/dist/github-contribution-grid-snake-dark.svg)
 
 ## 🔗 Connect with Me  
 💬 Discord: [yama_4167]  
