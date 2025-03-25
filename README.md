@@ -1,12 +1,9 @@
-# 👋 Hi, I'm Kevin!  
-
 ## 🚀 About Me  
 - 🎓 **Computer Engineering Student** at **Technological Institute of the Philippines** (4th Year)  
 - 💡 Passionate about **Machine Learning, AI, Robotics, Full-Stack Development, and Data Analytics**  
 - 🤖 Currently working on **Collaborative Robot Automation & Path Optimization**  
 
 ## 🎯 Interests & Hobbies  
-- 🎮 **Gamer** – Enjoys HoYoverse titles & RPGs  
 - 🛠️ **PC Hardware Enthusiast** – Building and optimizing systems  
 - 🚀 **AI & Robotics Enthusiast** – Exploring intelligent automation  
 
