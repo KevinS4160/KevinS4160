@@ -22,8 +22,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=darkhub&margin-w=20&margin-h=15&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
-## 🛠 Tech Stack
 
+## 🛠 Tech Stack
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
