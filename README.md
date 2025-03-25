@@ -7,16 +7,18 @@
 - 🛠️ **PC Hardware Enthusiast** – Building and optimizing systems  
 - 🚀 **AI & Robotics Enthusiast** – Exploring intelligent automation  
 
-## 📊 GitHub Stats  
+## 🚀 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinS4160&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinS4160&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinS4160&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=gruvbox&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ## 🔗 Let's Connect  
