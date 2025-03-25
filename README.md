@@ -15,13 +15,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=sakura&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=gruvbox&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ## 🔗 Let's Connect  
@@ -29,5 +28,3 @@
 
 ## 🐍 Contribution Graph  
 ![GitHub Snake Animation](https://raw.githubusercontent.com/KevinS4160/Mobius-/output/dist/github-contribution-grid-snake-dark.svg)
-
-
