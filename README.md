@@ -1,5 +1,5 @@
 ## 🚀 About Me  
-- 🎓 **Computer Engineering Student** at **Technological Institute of the Philippines** (4th Year)  
+- 🎓 **Computer Engineering Graduate** at **Technological Institute of the Philippines** 
 - 💡 Passionate about **Machine Learning, AI, Robotics, Full-Stack Development, and Data Analytics**  
 - 🤖 Currently working on **Collaborative Robot Automation & Path Optimization**  
 
