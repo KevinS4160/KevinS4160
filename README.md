@@ -65,13 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinS4160&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinS4160&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
