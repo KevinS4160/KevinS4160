@@ -8,6 +8,8 @@
 - Experienced in building scalable data systems, automation pipelines, and data visualization solutions  
 - Currently involved in collaborative robotics research, focusing on path optimization and intelligent automation systems  
 
+---
+
 ## Tech Stack
 
 ### Languages
@@ -19,6 +21,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -26,11 +30,15 @@
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
+
 ### Databases & Data Tools
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
 
 ### AI / ML / Data Science
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -39,29 +47,37 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+---
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
+---
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinS4160&show_icons=true&theme=dark&hide_border=true&card_width=600" />
+  <img src="https://ghstats.dev/api/card?username=KevinS4160&theme=dark" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinS4160&layout=compact&theme=dark&hide_border=true&card_width=600" />
+  <img src="https://ghstats.dev/api/top-langs?username=KevinS4160&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KevinS4160&theme=dark" />
 </p>
+
+---
 
 ## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=darkhub&no-bg=true&no-frame=true&column=4" />
 </p>
+
+---
 
 ## Contact
 
