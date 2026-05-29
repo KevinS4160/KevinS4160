@@ -60,13 +60,17 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=KevinS4160&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinS4160&show_icons=true&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://ghstats.dev/api/top-langs?username=KevinS4160&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinS4160&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinS4160&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=KevinS4160&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -74,7 +78,7 @@
 ## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=darkhub&no-bg=true&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=tokyonight&no-bg=true&no-frame=true&column=4" />
 </p>
 
 ---
