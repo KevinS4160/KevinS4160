@@ -65,12 +65,14 @@
 
 ---
 
-## GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=tokyonight&no-bg=true&no-frame=true&column=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinS4160&theme=github-compact&hide_border=true" />
 </p>
 
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=algolia&no-frame=true&column=4" />
+</p>
 ---
 ## 🐍 Contribution Graph ![GitHub Snake Animation](https://raw.githubusercontent.com/KevinS4160/Mobius-/output/dist/github-contribution-grid-snake-dark.svg)
 ---
