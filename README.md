@@ -58,11 +58,8 @@
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinS4160&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinS4160&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=KevinS4160&theme=tokyonight&hide_border=true" />
 </p>
 
 
